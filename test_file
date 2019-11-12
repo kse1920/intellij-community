@@ -5,6 +5,6 @@ agent-side
 server-side
 server-side2
 server-side3
-with git.fetch.process.max.memory
 test2
 test3
+with properties
